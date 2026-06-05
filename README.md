@@ -62,7 +62,7 @@ Olá! Sou o Gabriel, tenho 18 anos e sou apaixonado por tecnologia. Concluí o e
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.clipartmax.com/png/middle/112-1127636_java-logo-png-transparent-java-logo-svg.png" 
+    src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-svg-download-png-2945017.png?f=webp" 
 />
 <img 
     align="left" 
