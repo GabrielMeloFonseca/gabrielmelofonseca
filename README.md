@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Gabriel Fonseca
 
-**`Desenvolvedora FullStack`**
+**`Future Software Engineer`**
 
 Olá! Sou o Gabriel, tenho 18 anos e sou apaixonado por tecnologia. Concluí o ensino médio em concomitância com o Ensino Técnico em Sistemas no Colégio Serrano Guardia e, atualmente, estou cursando Engenharia de Software no Centro Universitário Eniac. O meu foco é evoluir constantemente e construir soluções de alto impacto.
 
@@ -124,22 +124,4 @@ Olá! Sou o Gabriel, tenho 18 anos e sou apaixonado por tecnologia. Concluí o e
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
