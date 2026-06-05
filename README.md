@@ -46,7 +46,7 @@ Olá! Sou o Gabriel, tenho 18 anos e sou apaixonado por tecnologia. Concluí o e
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png" 
 />
 <img 
     align="left" 
@@ -54,7 +54,7 @@ Olá! Sou o Gabriel, tenho 18 anos e sou apaixonado por tecnologia. Concluí o e
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://commons.wikimedia.org/wiki/File:Logo_C_sharp.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/330px-Logo_C_sharp.svg.png" 
 />
 <img 
     align="left" 
@@ -62,7 +62,7 @@ Olá! Sou o Gabriel, tenho 18 anos e sou apaixonado por tecnologia. Concluí o e
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.clipartmax.com/middle/m2i8Z5m2Z5N4b1i8_java-logo-png-transparent-java-logo-svg/" 
+    src="https://www.clipartmax.com/png/middle/112-1127636_java-logo-png-transparent-java-logo-svg.png" 
 />
 <img 
     align="left" 
